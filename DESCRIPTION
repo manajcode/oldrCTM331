@@ -1,0 +1,11 @@
+Package: oldrCTM331
+Type: Package
+Title: Old Cohort Theory Model
+Version: 0.1.0
+Author: J.T. Morris
+Maintainer: Michael Najarro <michaelnajarro@gmail.com>
+Description: A previous version ofr the rCTM package from march 31st 2020
+    Use this package to run legacy code of the MEM-PEPRMNT model.
+License: GNU General Public License Version 3
+Encoding: UTF-8
+LazyData: true
